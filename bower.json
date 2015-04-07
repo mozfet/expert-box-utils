@@ -1,0 +1,31 @@
+{
+  "name": "expert-box-utils",
+  "main": "expert-box-utils.js",
+  "version": "0.0.1",
+  "authors": [
+    "Wynand Vermeulen <wynand@expertbox.com>"
+  ],
+  "description": "AngularJS utilities",
+  "keywords": [
+    "angular",
+    "utilities"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.14",
+    "underscore": "~1.8.2",
+    "angular-underscore-module": "~1.0.1",
+    "ng-string": "https://github.com/goodeggs/ng-string.git"
+  },
+  "devDependencies": {
+    "angular-loader": "~1.3.14",
+    "angular-mocks": "~1.3.14"
+  }
+}

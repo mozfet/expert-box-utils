@@ -1,0 +1,21 @@
+{
+  "name": "expert-box-utils",
+  "private": false,
+  "version": "0.0.1",
+  "description": "AngularJS utilities",
+  "repository": "https://github.com/mozfet/expert-box-utils.git",
+  "main": "expert-box-utils.js",
+  "license": "MIT",
+  "author": "Wynand Vermeulen",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "phantomjs": "^1.9.16"
+  },
+  "scripts": {
+    "test": "karma start test/karma.conf.js"
+  }
+}
