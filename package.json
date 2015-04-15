@@ -1,7 +1,7 @@
 {
   "name": "expert-box-utils",
   "private": false,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "AngularJS utilities",
   "repository": "https://github.com/mozfet/expert-box-utils.git",
   "main": "expert-box-utils.js",
